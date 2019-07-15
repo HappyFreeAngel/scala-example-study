@@ -1,0 +1,7 @@
+*.jar
+*.tar.gz
+*.tgz
+*.class
+/project/
+/project/target/
+/target/
